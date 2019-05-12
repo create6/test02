@@ -17,5 +17,8 @@ git commit -m 'delete_doc'
 #撤回
 git checkout --<doc>
 
+#manager
+# 创建dev分支切换，git checkout -b dev  ,git checkout dev
+
 
 Welcome to git!!!
