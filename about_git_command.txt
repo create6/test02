@@ -1,0 +1,21 @@
+#download
+git pull
+git clone git@github.com:create6/test02.git
+
+#update
+git add.  or git add <doc>
+git commit -m 'modify'
+git push or git remote add <doc> <git_add>
+
+# 查看版本号
+git reflog
+
+#delete doc
+rm <doc>
+git rm <doc>
+git commit -m 'delete_doc'
+#撤回
+git checkout --<doc>
+
+
+Welcome to git!!!
