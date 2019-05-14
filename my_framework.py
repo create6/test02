@@ -1,3 +1,5 @@
+#! /c/Users/struggle6/AppData/Local/Programs/Python/Python37/python
+
 '''
 框架程序，处理业务逻辑
 '''
